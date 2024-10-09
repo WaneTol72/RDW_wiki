@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Документация Тестовой Группы',
+  tagline: 'Тестировать круто!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'WaneTol72', // Usually your GitHub org/user name.
+  projectName: 'rdw-test-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,8 +25,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'ru',
+    locales: ['ru'],
   },
 
   presets: [
@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/WaneTol72/rdw-test-docs/tree/master/',
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +49,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/WaneTol72/rdw-test-docs/tree/master/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -64,24 +64,31 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'RDWComp logo',
+        href: 'https://docusaurus.io/',
+        target: '_self',
+        src: 'img/rdw-logo.svg',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Документация',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Обновления', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://github.com/WaneTol72/rdw-test-docs',
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
           position: 'right',
         },
       ],
@@ -90,7 +97,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Документация',
           items: [
             {
               label: 'Tutorial',
@@ -99,37 +106,23 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Больше',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
+              label: 'Обновления',
               to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
+            }
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      logo: {
+        alt: 'Meta Open Source Logo',
+        src: 'img/rdw-logo.svg',
+        href: 'https://opensource.fb.com',
+        width: 160,
+        height: 51,
+      },
+      copyright: `Copyright © ${new Date().getFullYear()} RDW Computers. <br/> Построено на Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

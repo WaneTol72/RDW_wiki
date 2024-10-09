@@ -2,46 +2,35 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Введение
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Добро пожаловать в документацию для тестировщиков производственного отдела! Эта платформа создана, чтобы помочь вам эффективно и качественно выполнять свою работу по тестированию.
 
-## Getting Started
+## Что вы найдете в этой документации
 
-Get started by **creating a new site**.
+- **Руководства по тестированию**: подробные инструкции по проверке различных типов оборудования.
+- **Процедуры и стандарты**: описания стандартных операционных процедур и лучших практик.
+- **Инструменты и ресурсы**: информация о необходимых программах и оборудовании для тестирования.
+- **Советы и рекомендации**: полезные подсказки от опытных коллег.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Как использовать эту документацию
 
-### What you'll need
+- **Навигация**: используйте меню слева для быстрого доступа к нужным разделам.
+- **Поиск**: воспользуйтесь функцией поиска, если ищете что-то конкретное.
+- **Обновления**: регулярно проверяйте раздел "Обновления", чтобы быть в курсе последних изменений.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Как редактировать и создавать контент
 
-## Generate a new site
+Мы ценим вклад каждого сотрудника в развитие нашей документации. Если вы хотите внести изменения или добавить новую информацию:
 
-Generate a new Docusaurus site using the **classic template**.
+1. **Ознакомьтесь с руководством**: перейдите в раздел [Как редактировать документацию](./site/intro) для получения подробных инструкций.
+2. **Следуйте стандартам оформления**: это обеспечит единообразие и удобство использования документации.
+3. **Используйте Markdown**: вся документация написана с использованием Markdown. Если вы не знакомы с этим языком разметки, загляните в [краткое руководство по Markdown](./site/markdown-guide).
 
-The classic template will automatically be added to your project after you run the command:
+## Обратная связь
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Ваши предложения и замечания помогают нам становиться лучше. Если у вас есть идеи по улучшению документации или вы нашли неточность, пожалуйста, свяжитесь с нами через раздел [Обратная связь](./feedback).
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+---
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Начните свое знакомство с документацией с раздела [Основы тестирования](./testing/testing-basics) или выберите интересующий вас раздел в меню.
