@@ -7,5 +7,6 @@ tags:
   - cache
   - themes
   - zproger
+  - settings
 ---
 ## Первоначальная настройка Obsidian (templates, cache, themes):
