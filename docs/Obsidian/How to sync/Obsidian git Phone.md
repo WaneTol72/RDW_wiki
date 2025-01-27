@@ -6,6 +6,7 @@ tags:
   - git
   - github
   - Phone
+  - fit
 link: https://habr.com/ru/articles/843288/
 ---
 ### Шаг 4: Синхронизация с мобильным (Android, iOS)
