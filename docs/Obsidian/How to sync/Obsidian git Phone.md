@@ -5,12 +5,6 @@ tags:
   - tutorial
   - git
   - github
-  - PC
-  - phone
+  - Phone
 link: https://habr.com/ru/articles/843288/
 ---
-# Как подключить obsidian и сделать git на ПК или телефоне:
-
-
-
-
