@@ -16,7 +16,8 @@
 .env.production.local
 
 .obsidian
-/Templates
+/Templates/
+/Daily/
 
 npm-debug.log*
 yarn-debug.log*
