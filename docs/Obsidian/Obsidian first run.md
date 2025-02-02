@@ -10,4 +10,4 @@ tags:
   - settings
 ---
 ## Первоначальная настройка Obsidian (templates, cache, themes):
-test commit
+
