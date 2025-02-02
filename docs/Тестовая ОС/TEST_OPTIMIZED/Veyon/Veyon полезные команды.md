@@ -5,8 +5,10 @@ tags:
   - work
   - Veyon
   - фичи
+  - cmd
 ---
 ## Управление сервисами:
+- Открыть `cmd` от админа
 ```cmd
 veyon-cli service register
 ```
