@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrdw_test_docs=self.webpackChunkrdw_test_docs||[]).push([[130],{4286:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/rdw-test-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
