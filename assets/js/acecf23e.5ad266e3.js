@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrdw_test_docs=self.webpackChunkrdw_test_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/rdw-test-docs/blog","blogTitle":"Blog","authorsListPath":"/rdw-test-docs/blog/authors"}')}}]);
