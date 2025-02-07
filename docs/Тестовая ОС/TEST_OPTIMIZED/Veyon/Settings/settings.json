@@ -1,0 +1,28 @@
+{
+    "Authentication": {
+        "Method": 1,
+        "PrivateKeyBaseDir": "%GLOBALAPPDATA%\\keys\\private",
+        "PublicKeyBaseDir": "%GLOBALAPPDATA%\\keys\\public"
+    },
+    "LDAP": {
+        "LocationNameAttribute": "cn"
+    },
+    "Master": {
+        "AccessControlForMasterEnabled": false,
+        "AutoSelectCurrentLocation": false,
+        "RemoteAccessImageQuality": 0
+    },
+    "NetworkObjectDirectory": {
+        "Plugin": "14bacaaa-ebe5-449c-b881-5b382f952571"
+    },
+    "Service": {
+        "MaximumSessionCount": 100
+    },
+    "UserGroups": {
+        "Backend": "2917cdeb-ac13-4099-8715-20368254a367",
+        "UseDomainUserGroups": false
+    },
+    "VncServer": {
+        "Plugin": "39d7a07f-94db-4912-aa1a-c4df8aee3879"
+    }
+}
