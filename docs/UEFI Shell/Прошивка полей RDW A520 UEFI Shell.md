@@ -28,7 +28,6 @@ flash.nsh
 ```
 5) __Смотреть и ждать. Потом проверить BIOS__
 
-
 ## Опционально:
 - Скрипт flash.nsh:
 ```nsh
@@ -53,4 +52,4 @@ pause
 > Где, `/CT` - тип устройства (mini PC, All in One, Desctop Case, Notepad)
 
 `TODO: сопоставить типу - 0х код`
->
+
