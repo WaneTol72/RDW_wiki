@@ -5,7 +5,7 @@ tags:
 # Установка клиентской ОС/Windows:
 ---
 
-> [!info] > INFO
+> [!info]+ Information
 > Включить протокол _Boot from onboard LAN_ (_UEFI: PXE_)/Network stack.
 
 1. Через boot menu выбрать протокол ***UEFI: PXE IPv4***, дождаться загрузки ***WinPE (WDS)***.
