@@ -1,7 +1,6 @@
 ---
 tags:
   - windows
-  - Activation
 ---
 # Установка клиентской ОС/Windows:
 ---
