@@ -3,7 +3,7 @@ tags:
   - windows
   - Activation
 ---
-# Установка ОС/Windows:
+# Установка клиентской ОС/Windows:
 ---
 
 -   **WDS**  - при условии что в ***BIOS***, включен _Boot from onboard LAN_ (_UEFI: PXE_).
