@@ -5,4 +5,4 @@ tags:
 # Установка Linux
 ---
 
-<span style="color:red;">Stress</span>
+<span style="color:cyan;">Stress</span>
