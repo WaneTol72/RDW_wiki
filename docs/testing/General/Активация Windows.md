@@ -21,4 +21,4 @@ tags:
 	```cmd
 	slmgr /ato
 	```
-	
+	скрипт ***slmgr /ato*** 
