@@ -73,7 +73,7 @@ const config: Config = {
     navbar: {
       logo: {
         alt: 'RDWComp logo',
-        href: 'https://docusaurus.io/',
+        href: '/',
         target: '_self',
         src: 'img/rdw-logo.svg',
       },
@@ -100,7 +100,7 @@ const config: Config = {
           title: 'Документация',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Введение',
               to: '/docs/intro',
             },
           ],
@@ -116,9 +116,9 @@ const config: Config = {
         },
       ],
       logo: {
-        alt: 'Meta Open Source Logo',
+        alt: 'RDW Computers',
         src: 'img/rdw-logo.svg',
-        href: 'https://opensource.fb.com',
+        href: 'https://rdwcomp.ru/',
         width: 160,
         height: 51,
       },
