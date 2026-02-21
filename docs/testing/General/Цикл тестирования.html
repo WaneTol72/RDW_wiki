@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="ru" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-testing/General/Цикл тестирования" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.9.2">
+<title data-rh="true">Цикл тестирования | Документация Тестовой Группы</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://wanetol72.github.io/RDW_wiki/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://wanetol72.github.io/RDW_wiki/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://wanetol72.github.io/RDW_wiki/docs/testing/General/Цикл тестирования"><meta data-rh="true" property="og:locale" content="ru"><meta data-rh="true" name="docusaurus_locale" content="ru"><meta data-rh="true" name="docsearch:language" content="ru"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Цикл тестирования | Документация Тестовой Группы"><meta data-rh="true" name="description" content="---"><meta data-rh="true" property="og:description" content="---"><link data-rh="true" rel="icon" href="/RDW_wiki/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://wanetol72.github.io/RDW_wiki/docs/testing/General/Цикл тестирования"><link data-rh="true" rel="alternate" href="https://wanetol72.github.io/RDW_wiki/docs/testing/General/Цикл тестирования" hreflang="ru"><link data-rh="true" rel="alternate" href="https://wanetol72.github.io/RDW_wiki/docs/testing/General/Цикл тестирования" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Тестирование","item":"https://wanetol72.github.io/RDW_wiki/docs/category/тестирование"},{"@type":"ListItem","position":2,"name":"Цикл тестирования","item":"https://wanetol72.github.io/RDW_wiki/docs/testing/General/Цикл тестирования"}]}</script><link rel="alternate" type="application/rss+xml" href="/RDW_wiki/blog/rss.xml" title="Документация Тестовой Группы RSS Feed">
+<link rel="alternate" type="application/atom+xml" href="/RDW_wiki/blog/atom.xml" title="Документация Тестовой Группы Atom Feed"><link rel="stylesheet" href="/RDW_wiki/assets/css/styles.954955d6.css">
+<script src="/RDW_wiki/assets/js/runtime~main.745ee4d7.js" defer="defer"></script>
+<script src="/RDW_wiki/assets/js/main.6374c596.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<svg style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>document.documentElement.setAttribute("data-theme","dark"),document.documentElement.setAttribute("data-theme-choice","dark"),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><link rel="preload" as="image" href="/RDW_wiki/img/rdw-logo.svg"><div role="region" aria-label="Перейти к основному содержимому"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Перейти к основному содержимому</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Переключить навигационную панель" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" target="_self" href="/RDW_wiki/"><div class="navbar__logo"><img src="/RDW_wiki/img/rdw-logo.svg" alt="RDWComp logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/RDW_wiki/img/rdw-logo.svg" alt="RDWComp logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div></a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/RDW_wiki/docs/intro">Документация</a><a class="navbar__item navbar__link" href="/RDW_wiki/blog">Обновления</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/WaneTol72/rdw-test-docs" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link header-github-link" aria-label="GitHub repository"></a><div class="navbarSearchContainer_Bca1"></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Прокрутка к началу" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/RDW_wiki/docs/intro"><span title="Введение" class="linkLabel_WmDU">Введение</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/RDW_wiki/docs/category/сайт"><span title="Сайт" class="categoryLinkLabel_W154">Сайт</span></a><button aria-label="Expand sidebar category &#x27;Сайт&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" href="/RDW_wiki/docs/category/тестирование"><span title="Тестирование" class="categoryLinkLabel_W154">Тестирование</span></a><button aria-label="Collapse sidebar category &#x27;Тестирование&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" tabindex="0" href="/RDW_wiki/docs/testing/General/Linux"><span title="General" class="categoryLinkLabel_W154">General</span></a></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/General/Linux"><span title="Установка Linux" class="linkLabel_WmDU">Установка Linux</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/General/bios"><span title="Работа в среде BIOS" class="linkLabel_WmDU">Работа в среде BIOS</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/General/checklist"><span title="Чек-лист проверки единообразия сборки." class="linkLabel_WmDU">Чек-лист проверки единообразия сборки.</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/General/introduction"><span title="Руководство по этапам тестирования" class="linkLabel_WmDU">Руководство по этапам тестирования</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/General/testing procedure"><span title="Порядок тестирования" class="linkLabel_WmDU">Порядок тестирования</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/General/Активация Windows"><span title="Активация Windows" class="linkLabel_WmDU">Активация Windows</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/General/Видеокарта"><span title="Видеокарта" class="linkLabel_WmDU">Видеокарта</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/General/Плата защиты"><span title="Плата защиты" class="linkLabel_WmDU">Плата защиты</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/General/Установка Windows"><span title="Установка Windows" class="linkLabel_WmDU">Установка Windows</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/RDW_wiki/docs/testing/General/Цикл тестирования"><span title="Цикл тестирования" class="linkLabel_WmDU">Цикл тестирования</span></a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/RDW_wiki/docs/testing/PROCEDURE/SOFT"><span title="PROCEDURE" class="categoryLinkLabel_W154">PROCEDURE</span></a></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/RDW_wiki/docs/testing/testing-basics"><span title="testing-basics" class="linkLabel_WmDU">testing-basics</span></a></li></ul></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/RDW_wiki/docs/feedback"><span title="feedback" class="linkLabel_WmDU">feedback</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/RDW_wiki/docs/Linux/LinuxLive/GpartedLive"><span title="Linux" class="categoryLinkLabel_W154">Linux</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/RDW_wiki/docs/Obsidian/How to sync"><span title="Obsidian" class="categoryLinkLabel_W154">Obsidian</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/RDW_wiki/docs/UEFI Shell"><span title="UEFI Shell" class="categoryLinkLabel_W154">UEFI Shell</span></a><button aria-label="Expand sidebar category &#x27;UEFI Shell&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/RDW_wiki/docs/Тестовая ОС/TEST_OPTIMIZED/Veyon/Settings/Как создать файл csv для Veyon"><span title="Тестовая ОС" class="categoryLinkLabel_W154">Тестовая ОС</span></a></div></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Навигационная цепочка текущей страницы"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Главная страница" class="breadcrumbs__link" href="/RDW_wiki/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/RDW_wiki/docs/category/тестирование"><span>Тестирование</span></a></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">General</span></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Цикл тестирования</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">Содержание этой страницы</button></div><div class="theme-doc-markdown markdown"><header><h1>Цикл тестирования</h1></header><hr>
+<h1>Начало цикла</h1>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="визуальный-осмотр-устройства">Визуальный осмотр устройства<a href="#визуальный-осмотр-устройства" class="hash-link" aria-label="Прямая ссылка на Визуальный осмотр устройства" title="Прямая ссылка на Визуальный осмотр устройства" translate="no">​</a></h3>
+<blockquote>
+<p>[!tip]+
+<em><strong>Все изделия должны быть единообразны в рамках одного заказа/этапа.</strong></em></p>
+</blockquote>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="внешние-дефекты-устройства">Внешние дефекты устройства:<a href="#внешние-дефекты-устройства" class="hash-link" aria-label="Прямая ссылка на Внешние дефекты устройства:" title="Прямая ссылка на Внешние дефекты устройства:" translate="no">​</a></h5>
+<ul>
+<li class=""><em><strong>для ПК.</strong></em>
+Сколы, царапины, вмятины, &quot;<em>мусор</em>&quot; в корпусе и т.п.,
+<em><strong>Front панель</strong></em> - наличие всех необходимых заглушек/вставок, <em>DvD</em> привод (при наличии) и т.п., щели, соответствие номера штрих-кода
+(маленькая (корпусная) / большая(вложенная) наклейка) и их расположение на изделии.</li>
+<li class=""><em><strong>для Моноблоков.</strong></em>
+Сколы, щели, царапины, &quot;мусор&quot; в корпусе и т.п.,
+<em><strong>Front панель</strong></em> - заглушки/вставки, <em>DvD</em> привод (при наличии),
+единообразие сборки, экран матрицы на механические/физические повреждения,	соответствие номера штрих-кода (маленькая (корпусная), большая(вложенная) наклейка) и их расположение, механизм веб-камеры, блок кнопок управления.</li>
+<li class=""><em><strong>для MiniPC.</strong></em>
+Сколы, щели, царапины, &quot;<em>мусор/посторонний шум</em>&quot; в корпусе и .т.п.,
+<em><strong>лицевая сторона</strong></em> / <em><strong>задняя сторона</strong></em> - ровное расположение звук/микрофон, USB, Type-C, и .т.п.
+соответствие и расположение наклеек (штрих-код).</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="осмотр-выходов-мат-платаmotherboardmb-для-всех">Осмотр выходов Мат. плата/Motherboard/MB (для всех):<a href="#осмотр-выходов-мат-платаmotherboardmb-для-всех" class="hash-link" aria-label="Прямая ссылка на Осмотр выходов Мат. плата/Motherboard/MB (для всех):" title="Прямая ссылка на Осмотр выходов Мат. плата/Motherboard/MB (для всех):" translate="no">​</a></h5>
+<!-- -->Язычки <em>HDMI</em>, хвостики <em>USB</em>, заглушка <em>RJ45</em>
+Ровное расположение всех выходов (<em>Type-C</em>, звук, микрофон, и т.д.)</li>
+</ul>
+<hr>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="подключение-к-тестовому-стенду">Подключение к тестовому стенду:<a href="#подключение-к-тестовому-стенду" class="hash-link" aria-label="Прямая ссылка на Подключение к тестовому стенду:" title="Прямая ссылка на Подключение к тестовому стенду:" translate="no">​</a></h5>
+<ul>
+<li class=""><em><strong>для всех устройств</strong></em>:
+При включении обратить внимание на работу <em><strong>доп. кулеров</strong></em> и <em><strong>кулера ЦП</strong></em>, не должно быть посторонних шумов/свист/трещотки и т.п.</li>
+<li class=""><em><strong>для ПК:</strong></em>
+Включение устройства при помощи кнопки <em><strong>Power</strong></em>
+<em><strong>Power</strong></em> (включение)- сразу проводится проверка подключения (исключение автостарт),
+<em><strong>Reset</strong></em> (перезагрузка)- можно проверить между каким-либо из этапов, при этом не увеличивая общее время тестирования/цикла тестирования устройства,
+<em><strong>Замок</strong></em> - при его наличии, проверить подключение (в положении: <em>закрыт/открыт</em>),
+<em><strong>Индикация</strong></em>  - проверить при включении изделия и установки ОС (<em>Power LED/HDD LED</em>).</li>
+<li class=""><em><strong>для Моноблоков:</strong></em>
+<em><strong>Power/Reset</strong></em>  - проверка кнопок и индикации (<em>Power LED/HDD LED</em>) идентично ПК,
+<em><strong>Control Panel</strong></em>  - проверить работоспособность блока кнопок управления (исключение: если меню в режиме разработчика, сделать <em>сброс</em> настроек).
+<em><strong>WebCam</strong></em> - проверить механизм открытия/закрытия (замок)</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="регистрация-изделия-в-системе-учёта">Регистрация изделия в системе учёта:<a href="#регистрация-изделия-в-системе-учёта" class="hash-link" aria-label="Прямая ссылка на Регистрация изделия в системе учёта:" title="Прямая ссылка на Регистрация изделия в системе учёта:" translate="no">​</a></h5>
+<!-- -->При помощи терминала, внести в систему учёта изделий введя свой <em><strong>ID сотрудника</strong></em>  и штрих код изделия (на корпусе*)</li>
+</ul>
+<hr>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="прошивка-материнской-платы-motherboardmb-опционально">Прошивка материнской платы (Motherboard/MB) опционально:<a href="#прошивка-материнской-платы-motherboardmb-опционально" class="hash-link" aria-label="Прямая ссылка на Прошивка материнской платы (Motherboard/MB) опционально:" title="Прямая ссылка на Прошивка материнской платы (Motherboard/MB) опционально:" translate="no">​</a></h5>
+<!-- -->В зависимости от модели <em><strong>MB</strong></em> (<em><strong>AMD/intel</strong></em>) прошиваем <em><strong>BIOS</strong></em>
+через <em><strong>WDS/WinPE</strong></em> соответствующими командами, либо с флешки (<em><strong>актуальная версия/ТЗ</strong></em>).</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="bios">BIOS<a href="#bios" class="hash-link" aria-label="Прямая ссылка на BIOS" title="Прямая ссылка на BIOS" translate="no">​</a></h3>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="первоначальная-настройка-bios">Первоначальная настройка BIOS:<a href="#первоначальная-настройка-bios" class="hash-link" aria-label="Прямая ссылка на Первоначальная настройка BIOS:" title="Прямая ссылка на Первоначальная настройка BIOS:" translate="no">​</a></h5>
+<ul>
+<li class="">Вход в BIOS
+AMD <strong>==F2==</strong>
+intel <strong>==del==</strong></li>
+<li class="">Boot menu
+AMD ==<strong>F12</strong>==
+intel ==<strong>F11</strong>==</li>
+<li class="">для MiniPC
+вход в Bios ==<strong>del</strong>==
+вход в boot menu ==<strong>F7</strong>==</li>
+<li class=""><strong>Важно!!!</strong>
+<ul>
+<li class="">для некоторых моделей <strong>MB (AMD/Intel)</strong>
+вход в <em>BIOS</em> и <em>boot menu</em> может отличаться
+<em><strong>Установка времени и даты</strong></em>*
+Проверка комплектующих и доп. настройки в соответствии с ТЗ,
+<em>CPU</em>, <em>RAM</em>, температура <em>CPU</em>, <em>FAN1/FAN2/FAN3 RPM</em>, <em>HDD/SSD/M.2</em>
+Доп. настройки (в telegram).</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>[!WARNING] <strong>(Опционально)</strong>
+Включить пункт <em><strong>Boot from onboard LAN (<em>UEFI: PXE</em>)/Network stack/UEFI PXE Support.</strong></em></p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="сохранить-внесенные-изменения-biosдля-всех-f10сбросить-optimized--default-f9для-minipc-f4сбросить--optimized-default-f3"><em><strong>Сохранить внесенные изменения BIOS:</strong></em>
+для <em><strong>всех</strong></em> ==<strong>F10</strong>==
+сбросить <em>Optimized  Default</em> ==<strong>F9</strong>==
+для <em><strong>MiniPC</strong></em> ==<strong>F4</strong>==
+сбросить  <em>Optimized Default</em> ==<strong>F3</strong>==<a href="#сохранить-внесенные-изменения-biosдля-всех-f10сбросить-optimized--default-f9для-minipc-f4сбросить--optimized-default-f3" class="hash-link" aria-label="Прямая ссылка на сохранить-внесенные-изменения-biosдля-всех-f10сбросить-optimized--default-f9для-minipc-f4сбросить--optimized-default-f3" title="Прямая ссылка на сохранить-внесенные-изменения-biosдля-всех-f10сбросить-optimized--default-f9для-minipc-f4сбросить--optimized-default-f3" translate="no">​</a></h2>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="сброс-остаточного-питания-батарейка">Сброс остаточного питания (батарейка):<a href="#сброс-остаточного-питания-батарейка" class="hash-link" aria-label="Прямая ссылка на Сброс остаточного питания (батарейка):" title="Прямая ссылка на Сброс остаточного питания (батарейка):" translate="no">​</a></h5>
+<!-- -->Выключить/отключить устройства (выдернуть кабель/шнур питания),
+прожать кнопку питания/сброс (<em><strong>Power/Reset</strong></em>) несколько раз
+для сброса остаточного питания.
+Подождать ~ 2 - 5 min, в зависимости от мощности БП (блок питания).
+Подключить и запустить устройство.</li>
+</ul>
+<hr>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="запуск-службы-wdspxe">Запуск службы WDS/PXE:<a href="#запуск-службы-wdspxe" class="hash-link" aria-label="Прямая ссылка на Запуск службы WDS/PXE:" title="Прямая ссылка на Запуск службы WDS/PXE:" translate="no">​</a></h5>
+<!-- -->Дождаться запуска <em>PXE</em> (в некоторых случая нужно
+через <em><strong>boot menu</strong></em> выбрать запуск службы <em><strong>UEFI: PXE IP4</strong></em>).</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="установка-тестовой-ос">Установка Тестовой ОС<a href="#установка-тестовой-ос" class="hash-link" aria-label="Прямая ссылка на Установка Тестовой ОС" title="Прямая ссылка на Установка Тестовой ОС" translate="no">​</a></h3>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="заливка-тестовой-операционной-системы">Заливка тестовой операционной системы:<a href="#заливка-тестовой-операционной-системы" class="hash-link" aria-label="Прямая ссылка на Заливка тестовой операционной системы:" title="Прямая ссылка на Заливка тестовой операционной системы:" translate="no">​</a></h5>
+<!-- -->После того как загрузились в <strong>WDS/WinPE</strong> (окно выбора <strong>ОС</strong>).
+Открываем командную строку (<em><strong>cmd</strong></em>) ==<strong>Shift + F10</strong>== прописываем скрипт для очистки дисков (==<strong>000</strong>==), в этом же окне (<strong>cmd</strong>) прошиваем <strong>BIOS</strong> (при необходимости).
+закрываем всё лишние, заливаем тестовую <strong>ОС</strong></li>
+</ul>
+<hr>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="установка-необходимых-драйверов-опционально">Установка необходимых драйверов (опционально):<a href="#установка-необходимых-драйверов-опционально" class="hash-link" aria-label="Прямая ссылка на Установка необходимых драйверов (опционально):" title="Прямая ссылка на Установка необходимых драйверов (опционально):" translate="no">​</a></h5>
+<!-- -->запускаем команду Выполнить  ==<em><strong>Win + R</strong></em>==, свой <em>ID сотрудника</em> (для отображения в отчете устройства ID тестировщика),
+повторяем команду ==<em><strong>Win + R</strong></em>== (Выполнить), прописываем команды для работы с программой <em><strong>Veyon Master</strong></em> (опционально),
+установка необходимых драйверов производиться программой <em><strong>SDI</strong></em> (опционально)</li>
+</ul>
+<blockquote>
+<p>[!WARNING]+
+<em><strong>Исключение:</strong></em> некоторым устройствам нужно скачать драйвер отдельно с официального сайта</p>
+</blockquote>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="разъемы-и-доп-устройства">Разъемы и доп. устройства<a href="#разъемы-и-доп-устройства" class="hash-link" aria-label="Прямая ссылка на Разъемы и доп. устройства" title="Прямая ссылка на Разъемы и доп. устройства" translate="no">​</a></h3>
+<ul>
+<li class="">
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="цикл-проверки-разъёмов-и-дополнительных-устройств">Цикл проверки разъёмов и дополнительных устройств:<a href="#цикл-проверки-разъёмов-и-дополнительных-устройств" class="hash-link" aria-label="Прямая ссылка на Цикл проверки разъёмов и дополнительных устройств:" title="Прямая ссылка на Цикл проверки разъёмов и дополнительных устройств:" translate="no">​</a></h5>
+<em><strong>Front Panel</strong></em> - Проверка разъемов <em>USB</em>, <em>Type-C</em>, <em>Card reader</em>, <em>звук/микрофон</em> и т.п.
+<em><strong>DvD</strong></em> - Проверить на открытие/закрытие механически (кнопка), а так же программно, открыть Мой компьютер(правый клик мыши)/&lt; Извлечь&gt;
+<em><strong>MB</strong></em> - проверка разъемов <em>Flex</em> - при наличии, <em>USB</em>, <em>Type-C</em>, <em>звук/микро</em>, доп. платы расширений, и т.п. (может быть опциональным*)
+на  моделях <em><strong>MB Intel</strong></em>  для разъема <em>Type-C</em> проверятся вывод изображения на отдельный/внешний монитор (это может быть опциональным*)
+<em><strong>Wi-Fi/BT(Bluetooth)</strong></em>* - проверить работоспособность/сигнал (для <em><strong>PC</strong></em>, при его наличии на изделии)
+[[Плата защиты|ПЗПК]]  - проверка <em>плата защиты</em> (при его наличии)
+[[Видеокарта]] - все выходы проверяются <em><strong>без исключения</strong></em>.<!-- -->
+<ul>
+<li class=""><em><strong>для Моноблоков:</strong></em>
+<em><strong>Матрица</strong></em> - проверка на пиксели, артефакты, засветы, и т.п.
+<em><strong>DvD</strong></em> - Проверить на открытие/закрытие механически (кнопка), а так же программно, открыть Мой компьютер(правый клик мыши)/&lt; Извлечь&gt;
+<em><strong>Внешний звук</strong></em> - динамики/колонки (правильно положение/вывод звука <em><strong>Left/Right</strong></em>)
+<em><strong>WebCam</strong></em> - выставить актуальные настройки в <em><strong>соответствии с ТЗ</strong></em> ,
+<em><strong>Wi-Fi/BT(Bluetooth)</strong></em> - проверить работоспособность/сигнал.</li>
+<li class=""><em><strong>для MiniPC:</strong></em>
+процедура проверки идентична проверке <em><strong>PC</strong></em> ,+ проверка <em><strong>Wi-Fi/BT</strong></em> при условии, что данное оборудование установлено на изделии.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="стресс-тесты">Стресс тесты<a href="#стресс-тесты" class="hash-link" aria-label="Прямая ссылка на Стресс тесты" title="Прямая ссылка на Стресс тесты" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>AIDA</strong> - <em><strong>стресс тест</strong></em> проводится ~15 min на 10% от общего объема партии заказа, на оставшейся партии ~5 min, параллельно запускаем информатор <strong>HWInfo</strong> .</li>
+<li class=""><strong>FurMark</strong> - для <em><strong>видеокарт</strong></em> проводится так же ~15 min на 10% от общей партии заказа, на оставшейся партия заказа ~5 min</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="снятие-отчета">Снятие отчета<a href="#снятие-отчета" class="hash-link" aria-label="Прямая ссылка на Снятие отчета" title="Прямая ссылка на Снятие отчета" translate="no">​</a></h3>
+<p><em><strong>Перед снятием отчета, уточнить у коллег, не снимает ли кто еще параллельно отчет</strong></em> (чтобы после снятия отчета, они не перемешались).
+Снятие отчет производится через вызов команды <em><strong>==Win+R==</strong></em>  в поле вводим свой
+<em><strong>ID сотрудника</strong></em>, либо через ярлык, в общей папке на рабочем столе (выбираем свой).
+<strong>Перед снятием отчета</strong>, нужно произвести актуальные установки (<em>наименование заказа (1), тип устройства (2), номер заказа (3), выбор модели МВ (5).</em>) . После снятия, проверяем файлы отчета на идентичность.</p>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="удаление-тестовой-ос">Удаление тестовой ОС<a href="#удаление-тестовой-ос" class="hash-link" aria-label="Прямая ссылка на Удаление тестовой ОС" title="Прямая ссылка на Удаление тестовой ОС" translate="no">​</a></h3>
+<p>Перезагружаем устройство, заходим в <em><strong>WDS/PXE</strong></em>, дождаться окна выбора установки ОС (на всех устройствах), нажимаем комбинацию клавиш<br>
+<!-- -->==<strong>Shift+F10</strong>== (вызов <em><strong>командной строки</strong></em>/<em><strong>cmd</strong></em>), в окне вводим <strong>&quot;000&quot;</strong> данная команда очищает локальные диски (<em>диск 0, диск 1, диск 2</em>) от тестовой ОС.</p>
+<blockquote>
+<p>[!tip]+ Рекомендация:
+Перед вводом этого скрипта (<strong>&quot;000&quot;</strong>), вытащить все флешки из изделия.</p>
+</blockquote>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="заливка-клиентского-образа">Заливка клиентского образа<a href="#заливка-клиентского-образа" class="hash-link" aria-label="Прямая ссылка на Заливка клиентского образа" title="Прямая ссылка на Заливка клиентского образа" translate="no">​</a></h3>
+<ul>
+<li class="">
+<p><strong>[[Установка Windows]]</strong></p>
+</li>
+<li class="">
+<p><strong>[[Linux]]</strong></p>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="финальная-проверка-bios">Финальная проверка BIOS<a href="#финальная-проверка-bios" class="hash-link" aria-label="Прямая ссылка на Финальная проверка BIOS" title="Прямая ссылка на Финальная проверка BIOS" translate="no">​</a></h3>
+<p>После всех манипуляций, перезагружаемся и делаем финальную проверку BIOS,
+что прошиты все нужные нам поля (<em><strong>ID устройства, наименование устройства</strong></em>)</p>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="отключение-устройств">Отключение устройств<a href="#отключение-устройств" class="hash-link" aria-label="Прямая ссылка на Отключение устройств" title="Прямая ссылка на Отключение устройств" translate="no">​</a></h3>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="передача-готовой-продукции-на-упаковку">Передача готовой продукции на упаковку<a href="#передача-готовой-продукции-на-упаковку" class="hash-link" aria-label="Прямая ссылка на Передача готовой продукции на упаковку" title="Прямая ссылка на Передача готовой продукции на упаковку" translate="no">​</a></h3>
+<hr>
+<blockquote>
+<p>[!DANGER]+
+<em><strong>В случае обнаружения неисправности устройство передается на доработку в участок ремонта. При возвращении, устройство проходит полный цикл тестирования.</strong></em></p>
+</blockquote></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-tags-row"><div class="col"><b>Теги:</b><ul class="tags_jXut padding--none margin-left--sm"><li class="tag_QGVx"><a rel="tag" class="tag_zVej tagRegular_sFm0" href="/RDW_wiki/docs/tags/основы-тестирования">основы_тестирования</a></li></ul></div></div><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col noPrint_WFHX"><a href="https://github.com/WaneTol72/rdw-test-docs/tree/master/docs/testing/General/Цикл тестирования.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Отредактировать эту страницу</a></div><div class="col lastUpdated_JAkA"></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Страница документа"><a class="pagination-nav__link pagination-nav__link--prev" href="/RDW_wiki/docs/testing/General/Установка Windows"><div class="pagination-nav__sublabel">Предыдущая страница</div><div class="pagination-nav__label">Установка Windows</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/RDW_wiki/docs/testing/PROCEDURE/SOFT"><div class="pagination-nav__sublabel">Следующая страница</div><div class="pagination-nav__label">Проверка на программном уровне</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#визуальный-осмотр-устройства" class="table-of-contents__link toc-highlight">Визуальный осмотр устройства</a></li><li><a href="#bios" class="table-of-contents__link toc-highlight">BIOS</a></li><li><a href="#сохранить-внесенные-изменения-biosдля-всех-f10сбросить-optimized--default-f9для-minipc-f4сбросить--optimized-default-f3" class="table-of-contents__link toc-highlight"><em><strong>Сохранить внесенные изменения BIOS:</strong></em>
+для <em><strong>всех</strong></em> ==<strong>F10</strong>==
+сбросить <em>Optimized  Default</em> ==<strong>F9</strong>==
+для <em><strong>MiniPC</strong></em> ==<strong>F4</strong>==
+сбросить  <em>Optimized Default</em> ==<strong>F3</strong>==</a><ul><li><a href="#установка-тестовой-ос" class="table-of-contents__link toc-highlight">Установка Тестовой ОС</a></li><li><a href="#разъемы-и-доп-устройства" class="table-of-contents__link toc-highlight">Разъемы и доп. устройства</a></li><li><a href="#стресс-тесты" class="table-of-contents__link toc-highlight">Стресс тесты</a></li><li><a href="#снятие-отчета" class="table-of-contents__link toc-highlight">Снятие отчета</a></li><li><a href="#удаление-тестовой-ос" class="table-of-contents__link toc-highlight">Удаление тестовой ОС</a></li><li><a href="#заливка-клиентского-образа" class="table-of-contents__link toc-highlight">Заливка клиентского образа</a></li><li><a href="#финальная-проверка-bios" class="table-of-contents__link toc-highlight">Финальная проверка BIOS</a></li><li><a href="#отключение-устройств" class="table-of-contents__link toc-highlight">Отключение устройств</a></li><li><a href="#передача-готовой-продукции-на-упаковку" class="table-of-contents__link toc-highlight">Передача готовой продукции на упаковку</a></li></ul></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="theme-layout-footer-column col footer__col"><div class="footer__title">Документация</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/RDW_wiki/docs/intro">Введение</a></li></ul></div><div class="theme-layout-footer-column col footer__col"><div class="footer__title">Больше</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/RDW_wiki/blog">Обновления</a></li></ul></div></div><div class="footer__bottom text--center"><div class="margin-bottom--sm"><a href="https://rdwcomp.ru/" rel="noopener noreferrer" class="footerLogoLink_BH7S"><img src="/RDW_wiki/img/rdw-logo.svg" alt="RDW Computers" class="footer__logo themedComponent_mlkZ themedComponent--light_NVdE" width="160" height="51"><img src="/RDW_wiki/img/rdw-logo.svg" alt="RDW Computers" class="footer__logo themedComponent_mlkZ themedComponent--dark_xIcU" width="160" height="51"></a></div><div class="footer__copyright">Copyright © 2026 RDW Computers. <br> Построено на Docusaurus.</div></div></div></footer></div>
+</body>
+</html>

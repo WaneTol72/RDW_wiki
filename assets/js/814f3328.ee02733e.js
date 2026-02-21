@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrdw_test_docs=self.webpackChunkrdw_test_docs||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c!","permalink":"/RDW_wiki/blog/welcome","unlisted":false,"date":"2024-10-09T00:00:00.000Z"}]}')}}]);
