@@ -6,7 +6,7 @@ tags:
 # Установка Linux
 ---
 
->***Включение протокол UEFI: PXE IPv4  ни требуется***
+>***Включение протокола Boot from onboard LAN (UEFI: PXE IPv4)/Network stack/UEFI PXE Support не требуется.***
 
 Установка ПО ***Linux*** производим через флешки
 
