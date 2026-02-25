@@ -9,7 +9,7 @@ tags:
 > [!WARNING] ***Внимание*** 
 > *Возможны проблемы со входом в Linux  при включённом Secure boot.*
 
->Включение протокола *Boot from onboard LAN (UEFI: PXE IPv4)/Network stack/UEFI PXE Support* для установки Linux не требуется.
+>Включение протокола *Boot from onboard LAN (UEFI: PXE IPv4)/Network stack/UEFI PXE Support* для установки Linux **не требуется**.
 
 ---
 
@@ -27,4 +27,4 @@ tags:
 - В следующем окне, оставляем как есть *(-k0 Use the partition table from the image)*
 - Следующий шаг остается неизменным
 - Далее процесс установки/заливки Linux
-- 
+- После установки, в появившемся окне выбираем один из вариантов  *(Выключение/Poweroff, Перезагрузка/Reboot)*
