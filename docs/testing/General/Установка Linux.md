@@ -6,7 +6,10 @@ tags:
 # Установка Linux
 ---
 
->***Включение протокола Boot from onboard LAN (UEFI: PXE IPv4)/Network stack/UEFI PXE Support не требуется.***
+> [!WARNING] ***Внимание*** 
+> *Предварительно (при необходимости) сделать все необходимые настройки BIOS согласно ТЗ.*
+
+>Включение протокола *Boot from onboard LAN (UEFI: PXE IPv4)/Network stack/UEFI PXE Support* для установки Linux не требуется.
 
 ---
 
