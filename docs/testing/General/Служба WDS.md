@@ -4,6 +4,7 @@ tags:
   - wds
   - WinPE
   - PXE
+  - прошивки
 ---
 ---
 # WDS
