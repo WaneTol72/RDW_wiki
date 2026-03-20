@@ -2,6 +2,16 @@
 tags:
   - Активация
   - Activation
+  - win
+  - Win
+  - Windows
+  - windows
+  - keycode
+  - key
+  - ключ
+  - ключкод
+  - активация
+  - activation
 ---
 [[Быстрый старт]]
 
