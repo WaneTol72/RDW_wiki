@@ -10,14 +10,14 @@ tags:
 
 ---
 
-## [[BIOS]]
+## [[Bios]]
 
-## [[Цикл тестирования]]
+## [[TestCycle]]
 
-## [[Установка Windows]]
+## [[InstallationWindows]]
 
 ## [[ActivationWindows]]
-## [[Установка Linux]]
+## [[InstallationLinux]]
 
 ## [[ProtectionBoard]]
 
@@ -31,13 +31,13 @@ tags:
 
 ## [[CommandsMacros]]
 
-## [[Софт и ПО]]
+## [[Software]]
 
 ## [[ServiceWDS]]
 
 ## [[NameOfOrders]]
 
-## [[Краткое руководство]]
+## [[QuickGuide]]
 
 ---
 

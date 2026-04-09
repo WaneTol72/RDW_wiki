@@ -11,22 +11,22 @@ tags:
 ---
 
 
-| [[BIOS]]                           |
+| [[Bios]]                           |
 | ---------------------------------- |
-| [[Цикл тестирования]]              |
-| [[Установка Windows]]              |
+| [[TestCycle]]              |
+| [[InstallationWindows]]              |
 | [[ActivationWindows]]              |
-| [[Установка Linux]]                |
+| [[InstallationLinux]]                |
 | [[ProtectionBoard]]                   |
 | [[VideoCard]]                     |
 | [[NetworkCard]] |
 | [[Management]]                    |
 | [[Motherboard]]              |
 | [[CommandsMacros]]              |
-| [[Софт и ПО]]                      |
+| [[Software]]                      |
 | [[ServiceWDS]]                     |
 | [[NameOfOrders]]           |
-| [[Краткое руководство]]            |
+| [[QuickGuide]]            |
 
 ---
 
