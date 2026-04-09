@@ -16,7 +16,7 @@ tags:
 
 ## [[Установка Windows]]
 
-## [[Активация Windows]]
+## [[ActivationWindows]]
 ## [[Установка Linux]]
 
 ## [[ProtectionBoard]]
@@ -25,17 +25,17 @@ tags:
 
 ## [[NetworkCard]]
 
-## [[Руководство]]
+## [[Management]]
 
-## [[Материнские платы]]
+## [[Motherboard]]
 
-## [[Команды и макросы]]
+## [[CommandsMacros]]
 
 ## [[Софт и ПО]]
 
-## [[Служба WDS]]
+## [[ServiceWDS]]
 
-## [[Наименования заказов]]
+## [[NameOfOrders]]
 
 ## [[Краткое руководство]]
 

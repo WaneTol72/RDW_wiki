@@ -13,7 +13,7 @@ tags:
   - активация
   - activation
 ---
-[[Быстрый старт]]
+[[QuickStart]]
 
 ---
 # Активация Windows

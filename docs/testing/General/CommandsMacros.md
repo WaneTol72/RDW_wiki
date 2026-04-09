@@ -6,7 +6,7 @@ tags:
   - comand
   - macros
 ---
-[[Быстрый старт]]
+[[QuickStart]]
 
 ---
 
