@@ -67,8 +67,6 @@ sidebar_position: 2
 ### 7. Создание Pull Request
 
 1. После нажатия **"Propose changes"** вы будете перенаправлены на страницу сравнения изменений.
-![pull-request.png](./img/pull-request.png)
-
 2. Назначьте пустые поля (желательно, но необязательно)
 
 :::info
