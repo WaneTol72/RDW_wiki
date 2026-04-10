@@ -6,7 +6,7 @@ tags:
   - установка
   - установить
 ---
-[[QuickStart]]
+[[Quick_Start]]
 
 ---
 # Установка Linux

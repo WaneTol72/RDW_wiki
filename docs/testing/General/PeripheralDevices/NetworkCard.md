@@ -3,7 +3,7 @@ tags:
   - сеть
   - rj45
 ---
-[[QuickStart]]
+[[Quick_Start]]
 
 ---
 

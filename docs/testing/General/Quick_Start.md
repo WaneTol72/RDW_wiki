@@ -12,12 +12,12 @@ tags:
 
 ## [[Bios]]
 
-## [[TestCycle]]
+## [[Test_Cycle]]
 
-## [[InstallationWindows]]
+## [[Tnstallation_Windows]]
 
-## [[ActivationWindows]]
-## [[InstallationLinux]]
+## [[Activation_Windows]]
+## [[Installation_Linux]]
 
 ## [[ProtectionBoard]]
 
@@ -29,13 +29,13 @@ tags:
 
 ## [[Motherboard]]
 
-## [[CommandsMacros]]
+## [[Commands_Macros]]
 
 ## [[Software]]
 
-## [[ServiceWDS]]
+## [[Service_WDS]]
 
-## [[NameOfOrders]]
+## [[Name_Of_Orders]]
 
 ## [[QuickGuide]]
 

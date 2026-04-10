@@ -15,7 +15,7 @@ tags:
   - материнка
   - MB
 ---
-[[QuickStart]]
+[[Quick_Start]]
 
 ---
 

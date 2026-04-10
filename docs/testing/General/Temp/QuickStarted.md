@@ -13,19 +13,19 @@ tags:
 
 | [[Bios]]                           |
 | ---------------------------------- |
-| [[TestCycle]]              |
-| [[InstallationWindows]]              |
-| [[ActivationWindows]]              |
-| [[InstallationLinux]]                |
+| [[Test_Cycle]]              |
+| [[Tnstallation_Windows]]              |
+| [[Activation_Windows]]              |
+| [[Installation_Linux]]                |
 | [[ProtectionBoard]]                   |
 | [[VideoCard]]                     |
 | [[NetworkCard]] |
 | [[Management]]                    |
 | [[Motherboard]]              |
-| [[CommandsMacros]]              |
+| [[Commands_Macros]]              |
 | [[Software]]                      |
-| [[ServiceWDS]]                     |
-| [[NameOfOrders]]           |
+| [[Service_WDS]]                     |
+| [[Name_Of_Orders]]           |
 | [[QuickGuide]]            |
 
 ---

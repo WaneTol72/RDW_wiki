@@ -9,7 +9,7 @@ tags:
   - WDS
   - wds
 ---
-[[QuickStart]]
+[[Quick_Start]]
 
 ---
 # Материнские платы

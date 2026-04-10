@@ -6,7 +6,7 @@ tags:
   - PXE
   - прошивки
 ---
-[[QuickStart]]
+[[Quick_Start]]
 
 ---
 # WDS
