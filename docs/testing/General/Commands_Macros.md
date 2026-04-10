@@ -70,8 +70,8 @@ tags:
 
 ==================== **Прошивка BIOS** ================================
 
-bios (локальная)			                                   bios__<name_of_version>
-server_bios (сервер)		                           server_bios__<name_of_version>
+bios (локальная)			                                   bios__(name_of_version)
+server_bios (сервер)		                           server_bios__(name_of_version)
 
 
 
