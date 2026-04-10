@@ -13,7 +13,7 @@ tags:
 - ***GuardOS:*** - Запускаем программу:
 	1. С ярлыка на рабочем столе
 	2. комбинация клавиш ==**Win+R**== (команда *Выполнить*)
-	![Win+R.png](static/SCR/Win+R.png)
+	![Win+R.png](Win+R.png)
 	далее в поле вводим команду/скрипт ***"PZ"*** .
 - ***Login/Password:*** - В соответствующих полях ввести (При условии, если команда/скрипт ***PZ*** не выполнила вход автоматически). 
 	1. ***Login*** - **Admin**
@@ -34,31 +34,31 @@ tags:
 
 Вызвать команду *Выполнить* ***==Win+R==*** в поле *"Открыть"* написать *"term"* 
 
-![Win+R.png](static/SCR/Win+R.png)   
+![Win+R.png](Win+R.png)   
 
 Откроется программа **Terminal** 
 
-![Terminal.png](static/SCR/TerminalPZPK/Terminal.png)
+![Terminal.png](Terminal.png)
 
 В окне программы, в колонке ***COM Port*** выбрать ***3***, и в колонке ***Baud rate*** выбрать ***115200*** 
 
-![Terminal_point_1](static/SCR/TerminalPZPK/Terminal_point_1.png)
+![Terminal_point_1](Terminal_point_1.png)
 
 Нажать кнопку ***Connect***  (сочетание клавиш ==***Alt+C***==).
 
-![Terminal_point_2.png](static/SCR/TerminalPZPK/Terminal_point_2.png)
+![Terminal_point_2.png](Terminal_point_2.png)
 
 Далее, в текстовом файле написан код команд, копируем обе строки отдельно, и вставляем в поле под кнопкой ***Set Macros.*** Можно использовать функцию ***вставка из буфера*** (==***Win+V***==) выбираем первую часть команды/строки, вставляем и жмем ==*Enter*== либо кнопка *==Send==* в окне программы, повторить процедуру со второй частью команды/строки.
 
-![Terminal_point_4.png](static/SCR/TerminalPZPK/Terminal_point_4.png)
+![Terminal_point_4.png](Terminal_point_4.png)
 
 Далее жмем сочетание клавиш ***==Alt+D==*** либо жмем в окне программы кнопку *==Disconnect==* чтобы отключится от устройства ПЗПК, а наши настройки сохранились.
 
-![Terminal_point_5.png](static/SCR/TerminalPZPK/Terminal_point_5.png)
+![Terminal_point_5.png](Terminal_point_5.png)
 
 Далее жмем в окне программы кнопку *==Quit==* или сочетание клавиш ***==Alt+Q==*** для закрытия программы.
 
-![Terminal_point_quit.png](static/SCR/TerminalPZPK/Terminal_point_5.png)
+![Terminal_point_quit.png](Terminal_point_5.png)
 
 >В случаи если помогло, переходим к проверке ПЗПК,
 >Когда не помогло, пометить изделие о браке для дальнейшего оформления на участок ремонта.
