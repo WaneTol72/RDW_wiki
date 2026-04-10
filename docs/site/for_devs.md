@@ -21,7 +21,7 @@ sidebar_position: 3
    ```bash
    cd путь/к/вашей/директории
    ```
-3. **Склонируйте репозиторий**:
+3. **С клонируйте репозиторий**:
    ```bash
    git clone https://github.com/WaneTol72/rdw-test-docs.git
    ```
