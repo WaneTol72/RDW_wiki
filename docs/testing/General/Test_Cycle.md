@@ -208,7 +208,7 @@ tags:
 ---
 ### Заливка клиентского образа
 
--  **[[Tnstallation_Windows]]**
+-  **[[Installation_Windows]]**
  
 -  **[[Installation_Linux]]**
 

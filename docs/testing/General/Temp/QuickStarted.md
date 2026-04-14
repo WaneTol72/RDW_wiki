@@ -14,7 +14,7 @@ tags:
 | [[Bios]]                           |
 | ---------------------------------- |
 | [[Test_Cycle]]              |
-| [[Tnstallation_Windows]]              |
+| [[Installation_Windows]]              |
 | [[Activation_Windows]]              |
 | [[Installation_Linux]]                |
 | [[ProtectionBoard]]                   |
