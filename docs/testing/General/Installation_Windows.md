@@ -6,7 +6,7 @@ tags:
   - заливка
   - установка
 ---
-[[Quick_Start]]
+[Начало](docs/Testing/General/Quick_Start)
 
 ---
 # Установка клиентской ОС/Windows:

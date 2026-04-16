@@ -7,7 +7,7 @@ tags:
   - программы
   - основы_тестирования
 ---
-[[Quick_Start]]
+[Начало](docs/Testing/General/Quick_Start)
 
 ---
 

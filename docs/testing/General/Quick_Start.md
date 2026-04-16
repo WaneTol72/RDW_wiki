@@ -10,34 +10,33 @@ tags:
 
 ---
 
-## [[Bios]]
+## [Bios](docs/Testing/General/Bios)
 
-## [[Test_Cycle]]
+## [Test_Cycle](docs/Testing/General/Test_Cycle)
 
-## [[Installation_Windows]]
+## [Installation_Windows](docs/Testing/General/Installation_Windows)
 
-## [[Activation_Windows]]
-## [[Installation_Linux]]
+## [Activation_Windows](docs/Testing/General/Activation_Windows)
+## [Installation_Linux](docs/Testing/General/Installation_Linux)
 
-## [[ProtectionBoard]]
+## [ProtectionBoard](docs/Testing/General/PeripheralDevices/ProtectionBoard)
 
-## [[VideoCard]]
+## [VideoCard](docs/Testing/General/PeripheralDevices/VideoCard)
 
-## [[NetworkCard]]
+## [NetworkCard](docs/Testing/General/PeripheralDevices/NetworkCard)
 
-## [[Management]]
+## [Management](docs/Testing/General/Temp/Management)
 
-## [[Motherboard]]
+## [Motherboard](docs/Testing/General/Motherboard)
 
-## [[Commands_Macros]]
+## [Commands_Macros](docs/Testing/General/Commands_Macros)
 
-## [[Software]]
+## [Software](docs/Testing/General/Software)
 
-## [[Service_WDS]]
+## [Service_WDS](docs/Testing/General/Service_WDS)
 
-## [[Name_Of_Orders]]
+## [Name_Of_Orders](docs/Testing/General/Name_Of_Orders)
 
-## [[QuickGuide]]
+## [QuickGuide](docs/Testing/General/Temp/QuickGuide)
 
 ---
-

@@ -6,7 +6,7 @@ tags:
   - PXE
   - прошивки
 ---
-[[Quick_Start]]
+[Начало](docs/Testing/General/Quick_Start)
 
 ---
 # WDS

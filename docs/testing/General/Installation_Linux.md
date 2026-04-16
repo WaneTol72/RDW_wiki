@@ -6,7 +6,7 @@ tags:
   - установка
   - установить
 ---
-[[Quick_Start]]
+[Начало](docs/Testing/General/Quick_Start)
 
 ---
 # Установка Linux
