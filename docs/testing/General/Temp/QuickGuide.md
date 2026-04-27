@@ -1,5 +1,5 @@
 
-[[Quick_Start]]
+## [В начало](/testing/General/Quick_Start.md)
 
 ---
 # Порядок тестирования

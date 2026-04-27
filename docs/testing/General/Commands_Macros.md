@@ -1,4 +1,5 @@
 ---
+title: Скрипты и команды
 tags:
   - макросы
   - макрос
@@ -6,7 +7,7 @@ tags:
   - comand
   - macros
 ---
-[Начало](docs/Testing/General/Quick_Start)
+### [В начало](/testing/General/Quick_Start.md)
 
 ---
 

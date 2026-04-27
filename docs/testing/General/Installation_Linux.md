@@ -1,4 +1,5 @@
 ---
+title: Установка Linux
 tags:
   - linux
   - Astra
@@ -6,14 +7,15 @@ tags:
   - установка
   - установить
 ---
-[Начало](docs/Testing/General/Quick_Start)
+### [В начало](/testing/General/Quick_Start.md)
 
 ---
 # Установка Linux
 ---
 
-> [!WARNING] ***Внимание:*** 
-> *Возможны проблемы со входом в Linux  при включённом Secure boot.*
+:::warning
+*Возможны проблемы со входом в Linux  при включённом Secure boot.*
+:::
 
 >Включение протокола *Boot from onboard LAN (UEFI: PXE IPv4)/Network stack/UEFI PXE Support* для установки Linux **не требуется**.
 
@@ -27,37 +29,36 @@ tags:
 - Дожидаемся загрузки окна навигации
 - Выбираем пункт  ***restoredisk***
 
-![Linux_starting.jpg](static/SCR/LinuxScr/Linux_starting.jpg)
+![Linux_starting.jpg](/SCR/LinuxScr/Linux_starting.jpg)
 
 - Далее выбираем интересующий нас образ в соответствии с ТЗ
   *(чаще всего, в имени указывается номер заказа, имя, количество штук в заказе/партии/этапе - год, дата, время создания образа, наименование накопителя, объем)*
 
-![Linux_install.jpg](static/SCR/LinuxScr/Linux_install.jpg)
+![Linux_install.jpg](/SCR/LinuxScr/Linux_install.jpg)
 
 - Далее этап выбора накопителя.
   Если в заказе более 1 накопителя, нужно выбрать по очереди (поставить галочки пробелом/установка приоритета)
 
-![Linux_M2_SSD_HDD.jpg](static/SCR/LinuxScr/Linux_M2_SSD_HDD.jpg)
+![Linux_M2_SSD_HDD.jpg](/SCR/LinuxScr/Linux_M2_SSD_HDD.jpg)
 
 - В следующем окне, оставляем как есть **(-k0 Use the partition table from the image)**
 
-![Linux_1.jpg](static/SCR/LinuxScr/Linux_1.jpg)
+![Linux_1.jpg](/SCR/LinuxScr/Linux_1.jpg)
 
 - Следующий шаг остается неизменным
 
-![Linux_2.jpg](static/SCR/LinuxScr/Linux_2.jpg)
+![Linux_2.jpg](/SCR/LinuxScr/Linux_2.jpg)
 
 - Далее процесс установки/заливки Linux
 - После установки, в появившемся окне выбираем один из вариантов  **(Выключение/Poweroff, Перезагрузка/Reboot)**
 
-![Linux_end.jpg](static/SCR/LinuxScr/Linux_end.jpg)
+![Linux_end.jpg](/SCR/LinuxScr/Linux_end.jpg)
 
 ---
 
-> [!tip] **Примечание:**
-> Если после выбора одного из вариантов *"Выключение/перезагрузка"* изделие осталось включённым, введите команду ***Poweroff*** для выключения, либо ***Reboot*** для перезагрузки, регистр не важен.
-
- ---
+:::tip
+Если после выбора одного из вариантов *"Выключение/перезагрузка"* изделие осталось включённым, введите команду ***Poweroff*** для выключения, либо ***Reboot*** для перезагрузки, регистр не важен.
+:::
 
 
 # Проверка изделия

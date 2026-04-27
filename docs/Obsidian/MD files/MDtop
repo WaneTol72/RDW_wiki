@@ -1,0 +1,85 @@
+---
+id: FAQ_top_of_MD
+title: Шапка md файла
+tags:
+  - Навигация
+  - старт
+  - начало
+  - md
+  - правильное_форматирование
+---
+
+[Ссылка на статью](https://code.mitok.ru/docs/shapka)
+
+Вот описание основных полей, которые могут использоваться в шапке Markdown-файлов для Docusaurus. Эти поля задаются в формате YAML front matter (раздел между ---).
+
+Основные поля:
+id (обязательное поле для уникального идентификатора страницы)
+Уникальный идентификатор документа в структуре Docusaurus.
+Пример: id: markdown.
+
+title (обязательное поле)
+Заголовок страницы, который отображается в содержании.
+Пример: title: Руководство по Markdown.
+
+sidebar_label
+Название, отображаемое в боковой панели. Если не указано, будет использовано значение title.
+Пример: sidebar_label: Markdown.
+
+description
+Краткое описание страницы для SEO.
+Пример: description: Основы Markdown форматирования.
+
+authors
+Список авторов страницы.
+Формат: массив объектов с полями:
+
+name (имя автора)
+title (должность или роль)
+url (ссылка на профиль или сайт)
+image_url (ссылка на изображение автора).
+Пример:
+authors:
+  - name: Joel Marcey
+    title: Co-creator of Docusaurus 1
+    url: https://github.com/JoelMarcey
+    image_url: https://github.com/JoelMarcey.png
+
+tags
+Массив ключевых слов для страницы.
+Пример: tags: [greetings, markdown].
+
+Дополнительные поля:
+slug
+Пользовательский URL для страницы. Если не указан, будет сгенерирован из id или имени файла.
+Пример: slug: /markdown-guide.
+
+custom_edit_url
+Пользовательская ссылка для редактирования страницы (заменяет стандартную ссылку GitHub).
+Пример: custom_edit_url: https://github.com/org/repo/edit/main/docs/markdown.md.
+
+hide_table_of_contents
+Скрыть содержание (TOC) на странице.
+Пример: hide_table_of_contents: true.
+
+pagination_prev / pagination_next
+Пользовательские ссылки на предыдущую/следующую страницу.
+Пример:
+
+pagination_prev: null
+pagination_next: custom-next-doc
+
+keywords
+Массив ключевых слов для улучшения SEO.
+Пример: keywords: [markdown, documentation, docusaurus].
+
+Минимальная структура:
+Если необходимо использовать минимально обязательные поля:
+
+---
+id: markdown
+title: Руководство по Markdown
+---
+
+Рекомендация:
+Используйте description, tags, и authors для улучшения SEO и визуального восприятия документации.

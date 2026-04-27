@@ -1,4 +1,5 @@
 ---
+title: Программное обеспечение
 создал заметку: 2025-01-27
 tags:
   - soft
@@ -7,7 +8,7 @@ tags:
   - программы
   - основы_тестирования
 ---
-[Начало](docs/Testing/General/Quick_Start)
+### [В начало](/testing/General/Quick_Start.md)
 
 ---
 

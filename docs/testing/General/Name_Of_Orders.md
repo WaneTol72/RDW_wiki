@@ -1,4 +1,5 @@
 ---
+title: Названия заказов и материнских плат
 создал заметку: 2026-02-10
 tags:
   - name_order
@@ -15,7 +16,7 @@ tags:
   - материнка
   - MB
 ---
-[Начало](docs/Testing/General/Quick_Start)
+### [В начало](/testing/General/Quick_Start.md)
 
 ---
 

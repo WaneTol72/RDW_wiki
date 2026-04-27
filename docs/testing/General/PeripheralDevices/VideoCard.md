@@ -1,9 +1,10 @@
 ---
+title: Видеокарта
 tags:
   - Видеокарта
   - видяха
 ---
- [Начало](docs/Testing/General/Quick_Start)
+### [В начало](/testing/General/Quick_Start.md)
 ---
 # Алгоритм проверки видеокарты
 
@@ -13,9 +14,10 @@ tags:
 	скачать драйвер с официального сайта по модели устройства  [NVidia](https://www.nvidia.com/en-us/drivers/) ,  [AMD Radeon](https://www.amd.com/en/support/download/drivers.html) , **Intel®**.
 -  ***FurMark***  - запустить программу.
 
-> [!WARNING] Внимание!
->  На слабых видеокартах FurMark не запускаем.
->  По типу **NVidia GeForce 710**
+:::warning
+На слабых видеокартах FurMark не запускаем.
+По типу **NVidia GeForce 710**
+:::
 
 1. сделать необходимые надстройки.
 2. запустить цикл на ~15 min (на 10% от общей партии заказа).

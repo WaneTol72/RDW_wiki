@@ -1,42 +1,40 @@
 ---
+id: QuickStart
+title: Быстрый старт
 tags:
   - Навигация
   - старт
   - начало
 ---
 
----
-# Быстрый старт
 
----
+## [Биос](/testing/General/bios.md)
 
-## [Bios](docs/Testing/General/Bios)
+## [Цикл тестирования](/testing/General/Test_Cycle.md)
 
-## [Test_Cycle](docs/Testing/General/Test_Cycle)
+## [Установка Windows](/testing/General/Installation_Windows.md)
 
-## [Installation_Windows](docs/Testing/General/Installation_Windows)
+## [Активация Windows](/testing/General/Activation_Windows.md)
+## [Установка Linux](/testing/General/Installation_Linux.md)
 
-## [Activation_Windows](docs/Testing/General/Activation_Windows)
-## [Installation_Linux](docs/Testing/General/Installation_Linux)
+## [ПЗПК](/testing/General/PeripheralDevices/ProtectionBoard.md)
 
-## [ProtectionBoard](docs/Testing/General/PeripheralDevices/ProtectionBoard)
+## [Видеокарта](/testing/General/PeripheralDevices/VideoCard.md)
 
-## [VideoCard](docs/Testing/General/PeripheralDevices/VideoCard)
+## [Сетевая карта](/testing/General/PeripheralDevices/NetworkCard.md)
 
-## [NetworkCard](docs/Testing/General/PeripheralDevices/NetworkCard)
+## [Менеджмент](/testing/General/Temp/Management.md)
 
-## [Management](docs/Testing/General/Temp/Management)
+## [Материнские платы](/testing/General/Motherboard.md)
 
-## [Motherboard](docs/Testing/General/Motherboard)
+## [Команды и скрипты](/testing/General/Commands_Macros.md)
 
-## [Commands_Macros](docs/Testing/General/Commands_Macros)
+## [ПО](/testing/General/Software.md)
 
-## [Software](docs/Testing/General/Software)
+## [WDS и WinPE](/testing/General/Service_WDS.md)
 
-## [Service_WDS](docs/Testing/General/Service_WDS)
+## [Название материнских плат и заказов](/testing/General/Name_Of_Orders.md)
 
-## [Name_Of_Orders](docs/Testing/General/Name_Of_Orders)
-
-## [QuickGuide](docs/Testing/General/Temp/QuickGuide)
+## [Супер быстрый старт](/testing/General/Temp/QuickGuide.md)
 
 ---

@@ -1,8 +1,12 @@
 ---
+title: Активация Windows
 tags:
   - Активация
   - Activation
 ---
+
+### [В начало](/testing/General/Quick_Start.md)
+
 ---
 # Активация Windows
 ---
