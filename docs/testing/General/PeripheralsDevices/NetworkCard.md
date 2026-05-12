@@ -21,7 +21,7 @@ tags:
 
 Открыть окно Параметры (*Win+i*)
 
-![Параметры.png](/SCR/General/Scr/Wini.png)
+![Параметры.png](/SCR/NetworkScr/Wini.png)
 
 Выбрать пункт *Сеть и Интернет*
 
