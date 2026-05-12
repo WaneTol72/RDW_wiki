@@ -7,7 +7,7 @@ tags:
   - пз
   - ПЗ
 ---
-### [В начало](/testing/General/Quick_Start.md)
+### [Быстрый старт](/testing/General/Quick_Start.md)
 ---
 
 
