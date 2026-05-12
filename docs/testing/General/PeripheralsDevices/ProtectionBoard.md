@@ -24,6 +24,7 @@ tags:
 
 ### Login/Password:
 
+В открывшемся окне программы вбиваем данные:
 ```PZ
 login: Admin
 password: Admin 
