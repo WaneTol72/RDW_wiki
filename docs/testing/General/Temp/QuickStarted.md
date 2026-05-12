@@ -19,7 +19,7 @@ tags:
 | [[Installation_Linux]]                |
 | [[ProtectionBoard]]                   |
 | [[VideoCard]]                     |
-| [[Network_Card]] |
+| [[docs/testing/General/PeripheralsDevices/NetworkCard]] |
 | [[Management]]                    |
 | [[Motherboard]]              |
 | [[Commands_Macros]]              |
