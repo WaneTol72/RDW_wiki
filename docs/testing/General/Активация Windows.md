@@ -5,7 +5,7 @@ tags:
   - Activation
 ---
 
-### [В начало](/testing/General/Quick_Start.md)
+### [Быстрый старт](/testing/General/Quick_Start.md)
 
 ---
 # Активация Windows
