@@ -23,9 +23,6 @@ tags:
 ![Win+R.png](/SCR/GeneralScr/WinR.png)
 
 ### Login/Password:
-	1. В поле *Login* выбрать  **Admin**
-	2. В поле *Password* написать **Admin**
-	3. Далее нажимаем **Enter** (Ввод).
 
 ```PZ
 login: Admin
