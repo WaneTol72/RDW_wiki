@@ -17,11 +17,11 @@ tags:
 ## [Активация Windows](/testing/General/Activation_Windows.md)
 ## [Установка Linux](/testing/General/Installation_Linux.md)
 
-## [ПЗПК](/testing/General/Peripherals_Devices/ProtectionBoard.md)
+## [ПЗПК](/testing/General/PeripheralsDevices/ProtectionBoard.md)
 
-## [Видеокарта](/testing/General/Peripherals_Devices/VideoCard.md)
+## [Видеокарта](/testing/General/PeripheralsDevices/VideoCard.md)
 
-## [Сетевая карта](/testing/General/Peripherals_Devices/Network_Card.md)
+## [Сетевая карта](/testing/General/PeripheralsDevices/Network_Card.md)
 
 ## [Менеджмент](/testing/General/Temp/Management.md)
 
