@@ -21,7 +21,7 @@ tags:
 
 ## [Видеокарта](/testing/General/PeripheralsDevices/VideoCard.md)
 
-## [Сетевая карта](/testing/General/PeripheralsDevices/Network_Card.md)
+## [Сетевая карта](/docs/testing/General/PeripheralsDevices/NetworkCard.md)
 
 ## [Менеджмент](/testing/General/Temp/Management.md)
 
