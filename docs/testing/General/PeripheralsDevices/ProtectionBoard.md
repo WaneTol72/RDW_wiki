@@ -71,7 +71,7 @@ password: Admin
 
 ![Terminal_point_2.png](/SCR/PZPKScr/Terminal_point_2.png)
 
-Далее жмем F1
+Далее жмем F1, затем F2
 
 ![Terminal_point_4.png](/SCR/PZPKScr/Terminal_point_4.png)
 
