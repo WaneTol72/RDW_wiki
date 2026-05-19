@@ -71,11 +71,7 @@ password: Admin
 
 ![Terminal_point_2.png](/SCR/PZPKScr/Terminal_point_2.png)
 
-Далее жмем F1, затем F2
-
-![Terminal_point_4.png](/SCR/PZPKScr/Terminal_point_4.png)
-
-Далее жмем сочетание клавиш ***Alt+D*** либо жмем в окне программы кнопку *Disconnect* чтобы отключится от устройства ПЗПК, а наши настройки сохранились.
+Далее жмем F1, затем F2, затем сочетание клавиш ***Alt+D*** либо жмем в окне программы кнопку *Disconnect* чтобы отключится от устройства ПЗПК, а наши настройки сохранились.
 
 ![Terminal_point_5.png](/SCR/PZPKScr/Terminal_point_5.png)
 
