@@ -14,7 +14,7 @@ tags:
 		- скачать драйвер с официального сайта по модели устройства  [NVidia](https://www.nvidia.com/en-us/drivers/) ,  [AMD Radeon](https://www.amd.com/en/support/download/drivers.html) , **Intel®**.
 -  ***FurMark***  - запустить программу.
 
-:::warning
+:::note
 На слабых видеокартах FurMark не запускаем.
 По типу **NVidia GeForce 710**
 :::
@@ -22,4 +22,7 @@ tags:
 1. сделать необходимые надстройки.
 2. запустить цикл на ~15 min (на 10% от общей партии заказа).
 3. на оставшейся партии запускать цикл на ~5 min.
--  ***Проверить*** все выходы *(HDMI/DP/mDP/Type-C/WGA/DVI)* внешним монитором.
+
+:::warning
+Проверить все выходы: HDMI/DP/mDP/Type-C/WGA/DVI внешним монитором.
+:::
