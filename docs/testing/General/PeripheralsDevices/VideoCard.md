@@ -30,6 +30,7 @@ tags:
 По типу **NVidia GeForce 710**
 :::
 
+---
 
 
 
