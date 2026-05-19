@@ -14,7 +14,6 @@ tags:
 		- скачать драйвер с официального сайта по модели устройства  [NVidia](https://www.nvidia.com/en-us/drivers/) ,  [AMD Radeon](https://www.amd.com/en/support/download/drivers.html) , **Intel®**.
 		
  2.  ***FurMark***  - запустить программу.
-	- Сделать необходимые надстройки .
 	- Время тестирования:
 		~15 min на 10% от общей партии заказа.
 		~5 min на оставшейся партии
