@@ -10,7 +10,8 @@ tags:
 
 
 -  ***SDI*** - Установить драйвер для устройства.
-	Если после установки драйвера, устройство не работает либо при установки драйвера произошла ошибка,	скачать драйвер с официального сайта по модели устройства  [NVidia](https://www.nvidia.com/en-us/drivers/) ,  [AMD Radeon](https://www.amd.com/en/support/download/drivers.html) , **Intel®**.
+	- Если после установки драйвера устройство не работает, либо при установки драйвера произошла ошибка
+		- скачать драйвер с официального сайта по модели устройства  [NVidia](https://www.nvidia.com/en-us/drivers/) ,  [AMD Radeon](https://www.amd.com/en/support/download/drivers.html) , **Intel®**.
 -  ***FurMark***  - запустить программу.
 
 :::warning
