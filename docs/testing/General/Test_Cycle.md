@@ -97,7 +97,8 @@ tags:
 
 ---
 
-### [Bios](Bios.md)
+#### [Bios](Bios.md)
+
 - ##### Первоначальная настройка BIOS:
 	- Вход в BIOS
 		AMD *F2*
