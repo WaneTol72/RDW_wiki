@@ -90,7 +90,7 @@ tags:
 ---
 #### Прошивка BIOS 
 
-- server_bios (сервер) - **server_bios__(name_of_version)**
+server_bios (сервер) - **server_bios__(name_of_version)**
 ```cmd
 server_bios__AR27 (пример)
 ```

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-### [В начало](/testing/General/Quick_Start.md)
+### [В начало](/docs//testing/General/Quick_Start.md)
 
 # Введение
 
