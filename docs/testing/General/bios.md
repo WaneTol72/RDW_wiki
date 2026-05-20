@@ -3,9 +3,9 @@ id: BIOS
 title: Биос
 ---
 
-### [В начало](/testing/General/Quick_Start.md)
+##### [В начало](/testing/General/Quick_Start.md)
 
-#### Работа в среде BIOS
+### Работа в среде BIOS
 
 **В первую очередь сверяем состав сборки согласно ТЗ:**
 
