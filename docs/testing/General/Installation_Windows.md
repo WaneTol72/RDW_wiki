@@ -16,7 +16,7 @@ tags:
 :::note
 *Включить протокол _Boot from onboard LAN_ (_UEFI: PXE_)/Network stack.*
 :::
-1. Через *boot menu* выбрать протокол ***UEFI: PXE IPv4***, дождаться загрузки *[Service_WDS|WinPE (WDS)](./Installation_Windows.md)*.
+1. Через *boot menu* выбрать протокол ***UEFI: PXE IPv4***, дождаться загрузки *[WinPE (WDS)](./Service_WDS.md)*.
 2. Удалить тестовую Windows (при ее наличии):
 	-  Комбинация клавиш *Shift+F10* (командная строка/cmd)  скрипт *00* .
 	-  Вручную, удалить разметку дисков встроенным функционалом.
