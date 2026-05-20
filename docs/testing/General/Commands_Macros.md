@@ -81,7 +81,6 @@ tags:
 **resol** - Батник смены разрешения на FHD (16:9)
 
 **a520field** - Прошивает одно поле на материнской плате RDW A520. 
-
 Поле - RDW A520. Перед использованием нужно в батникe bin4 (батник Жени) поменять тип прошивки на *'AMD'*
 
 **eng\утп** - Меняем язык на *eng*, выключаем *caps lock*, выключаем *num lock*
@@ -91,8 +90,8 @@ tags:
 ---
 #### Прошивка BIOS 
 
-bios (локальная)			                                   bios__(name_of_version)
-server_bios (сервер)		                           server_bios__(name_of_version)
+- bios (локальная)			                                   bios__(name_of_version)
+- server_bios (сервер)		                           server_bios__(name_of_version)
 
 ---
 
