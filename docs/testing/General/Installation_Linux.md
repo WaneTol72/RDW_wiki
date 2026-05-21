@@ -7,7 +7,7 @@ tags:
   - установка
   - установить
 ---
-### [В начало](/testing/General/Quick_Start.md)
+##### [В начало](/testing/General/Quick_Start.md)
 
 ---
 # Установка Linux

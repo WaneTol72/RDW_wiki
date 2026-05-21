@@ -1,5 +1,4 @@
-
-#### [В начало](/testing/General/Quick_Start.md)
+##### [В начало](/testing/General/Quick_Start.md)
 
 ---
 # Порядок тестирования

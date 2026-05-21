@@ -7,7 +7,7 @@ tags:
   - comand
   - macros
 ---
-### [В начало](/testing/General/Quick_Start.md)
+##### [В начало](/testing/General/Quick_Start.md)
 
 ---
 # Список команд и макросы

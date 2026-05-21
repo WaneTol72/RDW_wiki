@@ -7,7 +7,7 @@ tags:
   - заливка
   - установка
 ---
-### [В начало](/testing/General/Quick_Start.md)
+##### [В начало](/testing/General/Quick_Start.md)
 
 ---
 # Установка клиентской ОС/Windows:

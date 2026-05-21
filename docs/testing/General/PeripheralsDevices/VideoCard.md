@@ -4,7 +4,7 @@ tags:
   - Видеокарта
   - видяха
 ---
-### [В начало](/testing/General/Quick_Start.md)
+##### [В начало](/testing/General/Quick_Start.md)
 ---
 # Алгоритм проверки видеокарты
 

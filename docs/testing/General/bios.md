@@ -2,7 +2,6 @@
 id: BIOS
 title: Биос
 ---
-
 ##### [В начало](/testing/General/Quick_Start.md)
 
 ### Работа в среде BIOS

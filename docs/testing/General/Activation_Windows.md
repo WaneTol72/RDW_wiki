@@ -14,7 +14,7 @@ tags:
   - активация
   - activation
 ---
-### [Быстрый старт](/testing/General/Quick_Start.md)
+##### [Быстрый старт](/testing/General/Quick_Start.md)
 
 ---
 # Активация Windows

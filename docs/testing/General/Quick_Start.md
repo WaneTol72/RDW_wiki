@@ -6,34 +6,32 @@ tags:
   - старт
   - начало
 ---
+### [Биос](/testing/General/Bios.md)
 
+### [Цикл тестирования](/testing/General/Test_Cycle.md)
 
-## [Биос](/testing/General/Bios.md)
+### [Установка Windows](/testing/General/Installation_Windows.md)
 
-## [Цикл тестирования](/testing/General/Test_Cycle.md)
+### [Активация Windows](/testing/General/Activation_Windows.md)
 
-## [Установка Windows](/testing/General/Installation_Windows.md)
+### [Установка Linux](/testing/General/Installation_Linux.md)
 
-## [Активация Windows](/testing/General/Activation_Windows.md)
+### [ПЗПК](/testing/General/PeripheralsDevices/ProtectionBoard.md)
 
-## [Установка Linux](/testing/General/Installation_Linux.md)
+### [Видеокарта](/testing/General/PeripheralsDevices/VideoCard.md)
 
-## [ПЗПК](/testing/General/PeripheralsDevices/ProtectionBoard.md)
+### [Сетевая карта](/testing/General/PeripheralsDevices/NetworkCard.md)
 
-## [Видеокарта](/testing/General/PeripheralsDevices/VideoCard.md)
+### [Материнские платы](/testing/General/Motherboard.md)
 
-## [Сетевая карта](/testing/General/PeripheralsDevices/NetworkCard.md)
+### [Команды и скрипты](/testing/General/Commands_Macros.md)
 
-## [Материнские платы](/testing/General/Motherboard.md)
+### [ПО](/testing/General/Software.md)
 
-## [Команды и скрипты](/testing/General/Commands_Macros.md)
+### [WDS и WinPE](/testing/General/Service_WDS.md)
 
-## [ПО](/testing/General/Software.md)
+### [Название материнских плат и заказов](/testing/General/Name_Of_Orders.md)
 
-## [WDS и WinPE](/testing/General/Service_WDS.md)
-
-## [Название материнских плат и заказов](/testing/General/Name_Of_Orders.md)
-
-## [Супер быстрый старт](/testing/General/QuickGuide.md)
+### [Супер быстрый старт](/testing/General/Quick_Guide.md)
 
 ---
