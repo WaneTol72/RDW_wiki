@@ -35,6 +35,6 @@ tags:
 
 ## [Название материнских плат и заказов](/testing/General/Name_Of_Orders.md)
 
-## [Супер быстрый старт](/testing/General/Temp/QuickGuide.md)
+## [Супер быстрый старт](/testing/General/QuickGuide.md)
 
 ---
