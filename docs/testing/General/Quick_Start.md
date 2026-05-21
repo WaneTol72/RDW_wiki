@@ -6,7 +6,7 @@ tags:
   - старт
   - начало
 ---
-### [Биос](/testing/General/Bios.md)
+### [BIOS](/testing/General/Bios.md)
 
 ### [Цикл тестирования](/testing/General/Test_Cycle.md)
 
