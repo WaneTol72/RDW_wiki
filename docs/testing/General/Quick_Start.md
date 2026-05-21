@@ -8,13 +8,14 @@ tags:
 ---
 
 
-## [Биос](/testing/General/bios.md)
+## [Биос](/testing/General/Bios.md)
 
 ## [Цикл тестирования](/testing/General/Test_Cycle.md)
 
 ## [Установка Windows](/testing/General/Installation_Windows.md)
 
 ## [Активация Windows](/testing/General/Activation_Windows.md)
+
 ## [Установка Linux](/testing/General/Installation_Linux.md)
 
 ## [ПЗПК](/testing/General/PeripheralsDevices/ProtectionBoard.md)
@@ -22,8 +23,6 @@ tags:
 ## [Видеокарта](/testing/General/PeripheralsDevices/VideoCard.md)
 
 ## [Сетевая карта](/testing/General/PeripheralsDevices/NetworkCard.md)
-
-## [Менеджмент](/testing/General/Temp/Management.md)
 
 ## [Материнские платы](/testing/General/Motherboard.md)
 
