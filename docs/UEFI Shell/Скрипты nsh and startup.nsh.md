@@ -7,7 +7,7 @@ tags:
   - amideefix64_efi
   - скрипты
 ---
-# [UEFI Shell](ShellForFlash.md).nsh
+# [UEFI Shell](./ShellForFlash.md).nsh
 
 ### *Директория*:
 ![20250127172448.png](/SCR/Obsidian/20250127172448.png)
@@ -58,5 +58,5 @@ pause
 
  :::warning
 Обязательно!
-Перед запуском __flash.nsh__ [нужно инициализировать переменную __`<a>`__ вручную в UEFI Shell!](ShellForFlash.md)
+Перед запуском __flash.nsh__ [нужно инициализировать переменную __`<a>`__ вручную в UEFI Shell!](./ShellForFlash.md)
 :::
