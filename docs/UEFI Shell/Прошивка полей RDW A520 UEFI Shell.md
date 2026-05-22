@@ -48,8 +48,9 @@ echo "Done"
 pause
 ```
 
-:::WARNING
+:::warning
  Перед запуском, нужно сменить поля в этом файле на нужные!
  Где, `/CT` - тип устройства (mini PC, All in One, Desctop Case, Notepad)
+ 
 `TODO: сопоставить типу - 0х код`
 :::

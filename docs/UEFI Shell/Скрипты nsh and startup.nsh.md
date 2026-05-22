@@ -58,7 +58,7 @@ echo "Done"
 pause
 ```
 
- :::WARNING
+ :::warning
 Обязательно!
 Перед запуском __flash.nsh__ [нужно инициализировать переменную __`<a>`__ вручную в UEFI Shell!](obsidian://open?vault=obsidian_base&file=RDW%20Work%2FUEFI%20Shell%2F%D0%9F%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D0%B5%D0%B9%20RDW%20A520%20UEFI%20Shell)
 :::
