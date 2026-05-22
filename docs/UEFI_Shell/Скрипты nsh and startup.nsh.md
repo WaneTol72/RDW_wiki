@@ -8,7 +8,7 @@ tags:
   - amideefix64_efi
   - скрипты
 ---
-## [UEFI Shell](/UEFI_Shell#UEFI_Shell) .nsh
+## [UEFI Shell](./UEFI_Shell.md) .nsh
 
 #### _Директория_:
 ![20250127172448.png](/SCR/Obsidian/20250127172448.png)
