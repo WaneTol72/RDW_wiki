@@ -9,7 +9,7 @@ tags:
   - amideefix64_efi
 ---
 ## Директория:
-![Pasted image 20250127174233.png]
+![](/static/SCR/Obsidian/Pasted image 20250127174233.png)
 ## Что нужно сделать:
 1) Загрузиться с нужной флешки в UEFI Shell
 2) Выбрать нужную флешку (`map` в помощь):
