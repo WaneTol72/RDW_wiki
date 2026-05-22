@@ -26,7 +26,7 @@ tags:
 
 ### [Команды и скрипты](/testing/General/Commands_Macros.md)
 
-### [ПО](/testing/General/Software.md)
+### [ПО](/testing/General/Soft.md)
 
 ### [WDS и WinPE](/testing/General/Service_WDS.md)
 
