@@ -1,11 +1,9 @@
 ---
-создал заметку: 2025-01-16
 tags:
   - linuxlive
   - SystemRescueCD
   - разметка_диска
   - linux
-ссылка: obsidian://open?vault=obsidian_base&file=RDW%20Work%2FLinux%2FLinuxLive%2FGpartedLive
 ---
 ### **Скачивание образа SystemRescueCD**
 
@@ -15,4 +13,4 @@ tags:
 
 
 ## Далее все по инструкции с пункта 3:
-#### [obsidian://open?vault=obsidian_base&file=RDW%20Work%2FLinux%2FLinuxLive%2FGpartedLive](obsidian://open?vault=obsidian_base&file=RDW%20Work%2FLinux%2FLinuxLive%2FGpartedLive)
+#### [GpartedLive](./GpartedLive)
