@@ -76,4 +76,4 @@ sudo e2fsck -f -y /dev/sda2
 
 ---
 
-**См. также:** [руководство по Markdown](./markdown-guide), [стандарты оформления](./style-guide).
+**См. также:** [руководство по Markdown](./markdown_guide.md), [стандарты оформления](./style_guide.md).
