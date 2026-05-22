@@ -9,7 +9,7 @@ tags:
   - amideefix64_efi
 ---
 ## Директория:
-![](/static/SCR/Obsidian/Pasted image 20250127174233.png)
+![20250127174233.png](/SCR/Obsidian/20250127174233.png)
 ## Что нужно сделать:
 1) Загрузиться с нужной флешки в UEFI Shell
 2) Выбрать нужную флешку (`map` в помощь):
@@ -48,9 +48,8 @@ echo "Done"
 pause
 ```
 
-> [!WARNING]
-> Перед запуском, нужно сменить поля в этом файле на нужные!
-> Где, `/CT` - тип устройства (mini PC, All in One, Desctop Case, Notepad)
-
+:::WARNING
+ Перед запуском, нужно сменить поля в этом файле на нужные!
+ Где, `/CT` - тип устройства (mini PC, All in One, Desctop Case, Notepad)
 `TODO: сопоставить типу - 0х код`
->
+:::
