@@ -7,9 +7,8 @@ tags:
   - AfuEfix64_efi
   - amideefix64_efi
   - скрипты
-ссылка: obsidian://open?vault=obsidian_base&file=RDW%20Work%2FUEFI%20Shell%2FUEFI%20Shell
 ---
-## [[UEFI Shell]] .nsh
+## [UEFI Shell](/UEFI_Shell#UEFI_Shell) .nsh
 
 #### _Директория_:
 ![20250127172448.png](/SCR/Obsidian/20250127172448.png)
