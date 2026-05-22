@@ -8,9 +8,9 @@ tags:
   - amideefix64_efi
   - скрипты
 ---
-# [UEFI Shell](ShellForFlash.md) .nsh
+# [UEFI Shell](ShellForFlash.md).nsh
 
-## _Директория_:
+## *Директория*:
 ![20250127172448.png](/SCR/Obsidian/20250127172448.png)
 ### *f.nsh*:
 - запускает скрипт, который взаимодействует с полями материнской платы:
