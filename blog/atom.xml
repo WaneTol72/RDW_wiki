@@ -18,7 +18,7 @@
 <li class="">Слил ветку Жени с веткой Мастер.</li>
 <li class="">Поправил пару проблемных мест с форматированием из-за символов <code>&lt;</code> <code>&gt;</code> и <code>{</code> <code>}</code>.</li>
 <li class="">Обновил движок и плагины до последних версий.</li>
-<li class="">Создал документации: <strong><a class="" href="https://wanetol72.github.io/RDW_wiki/docs/site/markdown-guide">Руководство по Markdown</a></strong>, <strong><a class="" href="https://wanetol72.github.io/RDW_wiki/docs/site/style-example">Страница Пример</a></strong> и <strong><a class="" href="https://wanetol72.github.io/RDW_wiki/docs/site/style-example">Стандарты оформления</a></strong></li>
+<li class="">Создал документации: <strong>[Руководство по Markdown]</strong>, <strong>[Страница Пример]</strong> и <strong>[Стандарты оформления]</strong></li>
 </ol>
 <p>Пожалуйста, прочтите новую документацию и при готовности ваших веток создавайте Pull Request в Github, меня назначая в Reviewrs - я одобрю/отклоню запрос на слияние или попрошу внести правки.</p>]]></content>
         <author>

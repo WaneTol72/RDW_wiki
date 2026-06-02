@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrdw_test_docs=globalThis.webpackChunkrdw_test_docs||[]).push([[3112],{7152(t){t.exports=JSON.parse('{"metadata":{"permalink":"/RDW_wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
